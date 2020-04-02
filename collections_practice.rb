@@ -43,7 +43,7 @@ def add_s
   if index == 1 
     return element
   else 
-    array << "s"
+    element << "s"
 end
 end 
   
