@@ -40,7 +40,7 @@ end
 
 def add_s
   array.each_with_index.collect {|element, index| array[0..-2] << "s"}
-  
+end
   
   
   
