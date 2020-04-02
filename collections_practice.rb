@@ -45,7 +45,7 @@ def add_s
   else 
     array << "s"
 end
-  
+end 
   
   
   
